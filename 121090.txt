@@ -10,3 +10,5 @@
 27. git log > logs.txt
     git add logs.txt
     git add 121090.txt
+    git commit -m "Final commit"
+    git push -u origin master

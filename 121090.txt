@@ -1,0 +1,12 @@
+4. git init
+5. git remote add origin git@github.com:nelovski/SI_2023_lab1_121090.git
+6.  git status
+    git add README.md
+    git commit -m "Initial commit"
+7.  git add SILab1.java
+    git commit -m "Add java class"
+8.  git merge master
+    git push --set-upstream origin master
+27. git log > logs.txt
+    git add logs.txt
+    git add 121090.txt

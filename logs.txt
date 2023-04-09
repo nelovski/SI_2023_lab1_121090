@@ -1,0 +1,11 @@
+commit e496ff6bac6829206443f415c07ca799af939b74
+Author: nelovski <nelovski@gmail.com>
+Date:   Sun Apr 9 19:49:41 2023 +0200
+
+    Add java class
+
+commit 9b8064464f08a15a609a8dc1025d8a76ba52f9b9
+Author: nelovski <nelovski@gmail.com>
+Date:   Sun Apr 9 19:46:42 2023 +0200
+
+    Initial commit
